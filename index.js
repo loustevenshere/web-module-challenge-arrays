@@ -45,9 +45,9 @@ Use the copy function below to do the following:
     2. Return the new array that holds an exact copy of the old array  
 */
 
-function copy(/*your code here*/){
-    /*your code here*/
-}    
+function copy (arr) {
+   return [...arr]
+}
 
 
 
